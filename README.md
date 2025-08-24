@@ -19,12 +19,16 @@ With experience spanning **robotics, AI/ML, computer vision, and AR/VR developme
 
 ## Skills & Technologies  
 
-**Programming:** Python, C#, SQL  
-**Machine Learning:** TensorFlow, PyTorch, Scikit-learn, XGBoost  
-**Computer Vision:** OpenCV, YOLO, Haar Cascades, Image Segmentation, Classification  
-**NLP:** NLTK, Hugging Face, gTTS, pyttsx3, SpeechRecognition, Whisper  
-**Simulation & 3D Tools:** Unity Engine, Blender, ROS 2  
-**Operating Systems:** Linux (Ubuntu), Windows  
+**Programming Languages:** Python | C# | SQL | JavaScript | TypeScript  
+**Web Basics:** HTML | CSS  
+**Frontend Frameworks:** React.js  
+**Design & Prototyping:** Figma  
+**Machine Learning:** TensorFlow | PyTorch | Scikit-learn | XGBoost  
+**Computer Vision:** OpenCV | Image Classification | Object Detection (YOLO, Haar Cascades) | Image Segmentation  
+**Natural Language Processing (NLP):** NLTK | Hugging Face Transformers | gTTS | pyttsx3 | SpeechRecognition | Whisper  
+**Simulation & 3D Tools:** Unity Engine | Blender | ROS 2  
+**Operating Systems & Tools:** Linux (Ubuntu) | Windows  
+  
 
 ---
 
